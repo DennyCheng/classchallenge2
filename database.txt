@@ -1,0 +1,5 @@
+1.CREATE TABLE animals (
+    id SERIAL PRIMARY KEY,
+    type character varying(30),
+    amount character varying(3)
+);
